@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Special files per project
+matrix_output.txt
+primes_output.txt
+computing_columns.txt
